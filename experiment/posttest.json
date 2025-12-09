@@ -1,39 +1,102 @@
-{
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+[
+  {
+    "question": "During the titration of CuSO₄ with sodium thiosulfate, what ion is reduced?",
+    "answers": {
+      "a": "SO₄²⁻",
+      "b": "Cu²⁺",
+      "c": "S₂O₃²⁻",
+      "d": "Na⁺"
     },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Which indicator is commonly used in the titration of CuSO₄ with sodium thiosulfate?",
+    "answers": {
+      "a": "Methyl orange",
+      "b": "Starch",
+      "c": "Phenolphthalein",
+      "d": "Litmus"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What is the purpose of adding potassium iodide (KI) in the titration of CuSO₄ with sodium thiosulfate?",
+    "answers": {
+      "a": "To oxidize the thiosulfate",
+      "b": "To reduce the copper ion",
+      "c": "To form a complex with copper ion",
+      "d": "To form iodine which then reacts with thiosulfate"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "question": "What is the stoichiometric relationship between Cu²⁺ and S₂O₃²⁻ in the titration reaction?",
+    "answers": {
+      "a": "1:1",
+      "b": "2:1",
+      "c": "3:1",
+      "d": "1:2"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "How is the end point of the titration detected?",
+    "answers": {
+      "a": "When the solution turns blue",
+      "b": "When the solution turns colorless",
+      "c": "When the solution turns yellow",
+      "d": "When the solution turns red"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Which of the following equations represents the reaction between iodine and thiosulfate ion?",
+    "answers": {
+      "a": "I₂ + 2S₂O₃²⁻ → 2I⁻ + S₂O₆²⁻",
+      "b": "I₂ + 2S₂O₃²⁻ → 2I⁻ + S₂O₄²⁻",
+      "c": "I₂ + S₂O₃²⁻ → 2I⁻ + SO₄²⁻",
+      "d": "I₂ + 2S₂O₃²⁻ → 2I⁻ + S₄O₆²⁻"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "question": "What is the significance of the blue color in the titration?",
+    "answers": {
+      "a": "It indicates the presence of thiosulfate ion",
+      "b": "It indicates the presence of copper ion",
+      "c": "It indicates the presence of iodine",
+      "d": "It indicates the end point of the titration"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "question": "How do you calculate the concentration of an unknown CuSO₄ solution after titration?",
+    "answers": {
+      "a": "By using the volume of thiosulfate solution used",
+      "b": "By using the initial concentration of CuSO₄",
+      "c": "By using the initial volume of CuSO₄ solution",
+      "d": "By using the mass of CuSO₄"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "question": "Why is it important to standardize the sodium thiosulfate solution before using it for titration?",
+    "answers": {
+      "a": "To ensure accurate concentration measurement",
+      "b": "To change its pH",
+      "c": "To mix it properly with CuSO₄",
+      "d": "To increase its volume"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What is the primary use of the titration method described in this experiment?",
+    "answers": {
+      "a": "To determine the strength of an unknown solution of CuSO₄",
+      "b": "To measure the pH of CuSO₄ solution",
+      "c": "To calculate the density of CuSO₄ solution",
+      "d": "To change the color of CuSO₄ solution"
+    },
+    "correctAnswer": "a"
+  }
+]

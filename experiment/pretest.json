@@ -1,39 +1,102 @@
-{
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+[
+  {
+    "question": "Which of the following is the correct formula for Copper(II) sulfate?",
+    "answers": {
+      "a": "CuSO3",
+      "b": "CuSO4",
+      "c": "Cu2SO4",
+      "d": "CuS"
     },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Sodium thiosulfate is commonly used in which type of titration?",
+    "answers": {
+      "a": "Acid-base titration",
+      "b": "Precipitation titration",
+      "c": "Complexometric titration",
+      "d": "Redox titration"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "question": "In a redox reaction, what happens to the oxidation state of the element being reduced?",
+    "answers": {
+      "a": "It increases",
+      "b": "It remains the same",
+      "c": "It decreases",
+      "d": "It becomes zero"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "question": "What is the role of starch in the titration of CuSO4 with sodium thiosulfate?",
+    "answers": {
+      "a": "As an oxidizing agent",
+      "b": "As a reducing agent",
+      "c": "As an indicator",
+      "d": "As a buffer"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "question": "What color change indicates the end point in the titration of CuSO4 with sodium thiosulfate?",
+    "answers": {
+      "a": "Blue to colorless",
+      "b": "Colorless to blue",
+      "c": "Blue to green",
+      "d": "Green to blue"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What is the molarity of a solution?",
+    "answers": {
+      "a": "Moles of solute per liter of solvent",
+      "b": "Moles of solute per liter of solution",
+      "c": "Grams of solute per liter of solution",
+      "d": "Grams of solute per liter of solvent"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What is the molecular weight of CuSO4·5H2O?",
+    "answers": {
+      "a": "159.6 g/mol",
+      "b": "249.7 g/mol",
+      "c": "199.6 g/mol",
+      "d": "63.5 g/mol"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What is the purpose of standardizing a solution in titration?",
+    "answers": {
+      "a": "To change its color",
+      "b": "To determine its concentration accurately",
+      "c": "To mix it with other solutions",
+      "d": "To increase its volume"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "Which of the following represents a balanced redox reaction?",
+    "answers": {
+      "a": "Cu + Ag+ → Cu2+ + Ag",
+      "b": "Cu + 2Ag+ → Cu2+ + 2Ag",
+      "c": "Cu + 2Ag → Cu2+ + 2Ag+",
+      "d": "Cu2+ + 2Ag → Cu + 2Ag+"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "question": "What is the principle of volumetric analysis?",
+    "answers": {
+      "a": "Measurement of volume of liquid reacted",
+      "b": "Measurement of volume of gas produced",
+      "c": "Measurement of volume of liquid required to react with a known quantity of substance",
+      "d": "Measurement of mass of substance reacted"
+    },
+    "correctAnswer": "c"
+  }
+]
