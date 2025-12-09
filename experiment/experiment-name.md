@@ -1,1 +1,1 @@
-## Experiment name
+## Determination of the strength of an unknown CuSO₄ solution
